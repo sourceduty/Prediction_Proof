@@ -66,8 +66,6 @@ Next Steps
 [Myth Proof](https://github.com/sourceduty/Myth_Proof)
 <br>
 [Theory Proof](https://github.com/sourceduty/Theory_Proof)
-<br>
-[Sourceduty Predictions](https://github.com/sourceduty/predictions) 
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
