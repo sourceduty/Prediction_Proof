@@ -57,6 +57,10 @@ Next Steps
 - Track Developments: Continuously monitor advancements, pilot programs, and policy changes.
 
 #
+
+> Alex: "*The only future projections that could be made are for change itself because this avoids prediction which is impossible.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
@@ -66,6 +70,8 @@ Next Steps
 [Myth Proof](https://github.com/sourceduty/Myth_Proof)
 <br>
 [Theory Proof](https://github.com/sourceduty/Theory_Proof)
+<br>
+[Predictions](https://github.com/sourceduty/Predictions)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
